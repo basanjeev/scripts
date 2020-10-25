@@ -1,0 +1,24 @@
+AppData
+Application Data
+Contacts
+Cookies
+Links
+Local Settings
+NetHood
+NTUSER.DAT
+NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TM.blf
+NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000001.regtrans-ms
+NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000002.regtrans-ms
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
+PrintHood
+Recent
+Roaming
+Saved Games
+Searches
+SendTo
+Start Menu
+Templates
+Tracing
+Documents

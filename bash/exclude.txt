@@ -1,0 +1,6 @@
+jdk
+efl
+elementary
+enlightenment
+eflapps
+android-sdk-linux
